@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "test",
+      "setup": "",
+      "run": "gcc main.c -o main && ./main",
+      "input": "10\n",
+      "output": "8.904",
+      "comparison": "exact",
+      "points": 1
+    }
+  ]
+}
